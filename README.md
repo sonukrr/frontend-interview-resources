@@ -3,7 +3,7 @@
 An interactive web app that restructures this repository's interview-prep resources
 into a guided curriculum for engineers preparing for **senior frontend roles**.
 
-**Live:** https://learning-platform-seven-theta.vercel.app
+**Live:** https://learning-platform-seven-theta.vercel.app · auto-deployed from `main`
 
 ## What's inside
 
