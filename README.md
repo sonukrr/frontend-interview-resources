@@ -3,6 +3,8 @@
 An interactive web app that restructures this repository's interview-prep resources
 into a guided curriculum for engineers preparing for **senior frontend roles**.
 
+**Live:** https://frontend-interview-resources.vercel.app
+
 ## What's inside
 
 | Section | Content |
